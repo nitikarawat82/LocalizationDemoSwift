@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  locallSWIFT
+
+  Created by Apps WeLove on 04/06/24.
+  
+*/
+
+"firstname_text" = "First name";
+"lastname_text" = "Last name";
+"email_text" = "Email";
